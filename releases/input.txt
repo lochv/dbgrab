@@ -1,0 +1,6 @@
+{"host":"chongluadao.vn","ip":"103.200.21.175","port":80}
+{"host":"chongluadao.vn","ip":"103.200.21.175","port":443}
+{"host":"google.com","ip":"142.250.66.110","port":443}
+{"host":"google.com","ip":"142.250.66.110","port":80}
+{"host":"github.com","ip":"192.30.255.112","port":443}
+{"host":"github.com","ip":"192.30.255.112","port":80}
